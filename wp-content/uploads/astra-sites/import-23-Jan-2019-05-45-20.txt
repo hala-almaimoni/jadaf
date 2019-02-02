@@ -1,0 +1,476 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: Darwin
+Software 		: Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.10 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0
+MySQL version 		: 5.7.23
+XML Reader 		: Yes
+PHP Version 		: 7.2.10
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 8M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 8 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 3
+
+-----
+
+Importing Started! - 16:54:10 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 16:54:10 UTC
+
+---
+
+2. Importing "XML"  - 16:54:11 UTC
+Imported "Uncategorized" (category)
+Term 1 remapped to 3
+Failed to import astra-site-page-builder Beaver Builder
+Invalid taxonomy.
+Failed to import astra-site-page-builder Brizy
+Invalid taxonomy.
+Failed to import astra-site-page-builder Elementor
+Invalid taxonomy.
+Failed to import astra-sites-type Free
+Invalid taxonomy.
+Imported "page" (elementor_library_type)
+Term 7 remapped to 4
+Failed to import astra-sites-type Premium
+Invalid taxonomy.
+Imported "section" (elementor_library_type)
+Term 8 remapped to 5
+Imported "Primary Menu" (nav_menu)
+Term 6 remapped to 6
+Imported "logo05-free-img" (Media)
+Post 69 remapped to 69
+Imported "logo04-free-img" (Media)
+Post 70 remapped to 70
+Imported "logo02-free-img" (Media)
+Post 72 remapped to 72
+Imported "logo01-free-img" (Media)
+Post 73 remapped to 73
+Imported "logo06-free-img" (Media)
+Post 74 remapped to 74
+Imported "pic06-free-img" (Media)
+Post 82 remapped to 82
+Imported "lines02-free-img" (Media)
+Post 112 remapped to 112
+Imported "pic12-free-img" (Media)
+Post 134 remapped to 134
+Imported "pic13-free-img" (Media)
+Post 135 remapped to 135
+Imported "owner-free-img" (Media)
+Post 143 remapped to 143
+Imported "lhtqjazuprq-breather.jpg" (Media)
+Post 154 remapped to 154
+Imported "archi02-free-img" (Media)
+Post 184 remapped to 184
+Imported "archi04-free-img" (Media)
+Post 186 remapped to 186
+Imported "archi06-free-img" (Media)
+Post 191 remapped to 191
+Imported "pic11-free-img" (Media)
+Post 214 remapped to 214
+Imported "slide01-free-img" (Media)
+Post 232 remapped to 232
+Imported "hero02-free-img" (Media)
+Post 247 remapped to 247
+Imported "architect-logo3-free-img" (Media)
+Post 253 remapped to 253
+Imported "pic13-free-img" (Media)
+Post 255 remapped to 255
+Imported "pic14-free-img" (Media)
+Post 260 remapped to 260
+Imported "planner-free-img" (Media)
+Post 263 remapped to 263
+Imported "renovation-free-img" (Media)
+Post 264 remapped to 264
+Imported "real-estate-free-img" (Media)
+Post 265 remapped to 265
+Imported "consultation-free-img" (Media)
+Post 266 remapped to 266
+Imported "interior-free-img" (Media)
+Post 267 remapped to 267
+Imported "small-office-free-img" (Media)
+Post 268 remapped to 268
+Imported "quote-free-img" (Media)
+Post 271 remapped to 271
+Imported "logo-bg-free-img" (Media)
+Post 286 remapped to 286
+Imported "owner2-free-img" (Media)
+Post 290 remapped to 290
+Imported "team-03-free-img" (Media)
+Post 292 remapped to 292
+Imported "happy-clients-free-img" (Media)
+Post 296 remapped to 296
+Imported "clients01-free-img" (Media)
+Post 299 remapped to 299
+Imported "clients03-free-img" (Media)
+Post 300 remapped to 300
+Imported "clients04-free-img" (Media)
+Post 301 remapped to 301
+Imported "living-room2-free-img" (Media)
+Post 303 remapped to 303
+Imported "living-room1-free-img" (Media)
+Post 304 remapped to 304
+Imported "living-room4-free-img" (Media)
+Post 306 remapped to 306
+Imported "kitcen02-free-img" (Media)
+Post 308 remapped to 308
+Imported "kitcen03-free-img" (Media)
+Post 310 remapped to 310
+Imported "office01-free-img" (Media)
+Post 311 remapped to 311
+Imported "" (Navigation Menu Item)
+Post 21 remapped to 21
+Processing menu item post_type
+Imported "" (Navigation Menu Item)
+Post 22 remapped to 22
+Processing menu item post_type
+Imported "astra" (Custom CSS)
+Post 102 remapped to 102
+Imported "office02-free-img" (Media)
+Post 312 remapped to 312
+Imported "office03-free-img" (Media)
+Post 313 remapped to 313
+Imported "kitcen03-free-img" (Media)
+Post 315 remapped to 315
+Imported "kitcen05-free-img" (Media)
+Post 316 remapped to 316
+Imported "kitcen04-free-img" (Media)
+Post 317 remapped to 317
+Imported "bedroom03-free-img" (Media)
+Post 318 remapped to 318
+Imported "bedroom01-free-img" (Media)
+Post 319 remapped to 319
+Imported "bedroom02-free-img" (Media)
+Post 320 remapped to 320
+Imported "project-free-img" (Media)
+Post 323 remapped to 323
+Imported "living-room5-free-img" (Media)
+Post 324 remapped to 324
+Imported "interior-favicon-free-img" (Media)
+Post 327 remapped to 327
+Imported "interior-firm-facebook-yoast-free-img" (Media)
+Post 331 remapped to 331
+Imported "features" (Template)
+Post 334 remapped to 334
+Imported "blog-bg-img" (Media)
+Post 363 remapped to 363
+Imported "blog01-free-img" (Media)
+Post 431 remapped to 431
+Imported "blog02-free-img" (Media)
+Post 443 remapped to 443
+Imported "blog03-free-img" (Media)
+Post 449 remapped to 449
+Imported "Contact form" (Contact Form)
+Post 4 remapped to 450
+Imported "Home" (Page)
+Post 5 remapped to 451
+Imported "Portfolio" (Page)
+Post 6 remapped to 452
+Imported "About" (Page)
+Post 8 remapped to 453
+Imported "Contact" (Page)
+Post 15 remapped to 454
+Imported "Testimonials" (Page)
+Post 16 remapped to 455
+Imported "" (Navigation Menu Item)
+Post 18 remapped to 456
+Processing menu item post_type
+Menu item 15 mapped to 454
+Imported "" (Navigation Menu Item)
+Post 19 remapped to 457
+Processing menu item post_type
+Menu item 8 mapped to 453
+Imported "" (Navigation Menu Item)
+Post 23 remapped to 23
+Processing menu item post_type
+Menu item 16 mapped to 455
+Imported "Blog" (Page)
+Post 337 remapped to 337
+Imported "How To Prepare For Overnight Guests" (Post)
+Post 340 remapped to 340
+Imported "Last Minute Decor And DIY Gift Ideas!" (Post)
+Post 426 remapped to 426
+Imported "Makeover Plans For The Dining Room" (Post)
+Post 440 remapped to 440
+Imported "Bedroom! Embracing The Maximalism Trend" (Post)
+Post 445 remapped to 445
+Imported "" (Navigation Menu Item)
+Post 461 remapped to 461
+Processing menu item post_type
+Menu item 337 mapped to 337
+Running post-processing for post 69
+Could not find the author for "logo05-free-img" (post #69)
+Post 69 was imported with author "ramak", but could not be found
+Running post-processing for post 70
+Could not find the author for "logo04-free-img" (post #70)
+Post 70 was imported with author "ramak", but could not be found
+Running post-processing for post 72
+Could not find the author for "logo02-free-img" (post #72)
+Post 72 was imported with author "ramak", but could not be found
+Running post-processing for post 73
+Could not find the author for "logo01-free-img" (post #73)
+Post 73 was imported with author "ramak", but could not be found
+Running post-processing for post 74
+Could not find the author for "logo06-free-img" (post #74)
+Post 74 was imported with author "ramak", but could not be found
+Running post-processing for post 82
+Could not find the author for "pic06-free-img" (post #82)
+Post 82 was imported with author "ramak", but could not be found
+Running post-processing for post 112
+Could not find the author for "lines02-free-img" (post #112)
+Post 112 was imported with author "ramak", but could not be found
+Running post-processing for post 134
+Could not find the author for "pic12-free-img" (post #134)
+Post 134 was imported with author "ramak", but could not be found
+Running post-processing for post 135
+Could not find the author for "pic13-free-img" (post #135)
+Post 135 was imported with author "ramak", but could not be found
+Running post-processing for post 143
+Could not find the author for "owner-free-img" (post #143)
+Post 143 was imported with author "ramak", but could not be found
+Running post-processing for post 154
+Could not find the author for "lhtqjazuprq-breather.jpg" (post #154)
+Post 154 was imported with author "ramak", but could not be found
+Post 154 was marked for post-processing, but none was required.
+Running post-processing for post 184
+Could not find the author for "archi02-free-img" (post #184)
+Post 184 was imported with author "ramak", but could not be found
+Running post-processing for post 186
+Could not find the author for "archi04-free-img" (post #186)
+Post 186 was imported with author "ramak", but could not be found
+Running post-processing for post 191
+Could not find the author for "archi06-free-img" (post #191)
+Post 191 was imported with author "ramak", but could not be found
+Running post-processing for post 214
+Could not find the author for "pic11-free-img" (post #214)
+Post 214 was imported with author "ramak", but could not be found
+Running post-processing for post 232
+Could not find the author for "slide01-free-img" (post #232)
+Post 232 was imported with author "ramak", but could not be found
+Post 232 was marked for post-processing, but none was required.
+Running post-processing for post 247
+Could not find the author for "hero02-free-img" (post #247)
+Post 247 was imported with author "ramak", but could not be found
+Running post-processing for post 253
+Could not find the author for "architect-logo3-free-img" (post #253)
+Post 253 was imported with author "ramak", but could not be found
+Post 253 was marked for post-processing, but none was required.
+Running post-processing for post 255
+Could not find the author for "pic13-free-img" (post #255)
+Post 255 was imported with author "ramak", but could not be found
+Running post-processing for post 260
+Could not find the author for "pic14-free-img" (post #260)
+Post 260 was imported with author "ramak", but could not be found
+Running post-processing for post 263
+Could not find the author for "planner-free-img" (post #263)
+Post 263 was imported with author "ramak", but could not be found
+Running post-processing for post 264
+Could not find the author for "renovation-free-img" (post #264)
+Post 264 was imported with author "ramak", but could not be found
+Running post-processing for post 265
+Could not find the author for "real-estate-free-img" (post #265)
+Post 265 was imported with author "ramak", but could not be found
+Running post-processing for post 266
+Could not find the author for "consultation-free-img" (post #266)
+Post 266 was imported with author "ramak", but could not be found
+Running post-processing for post 267
+Could not find the author for "interior-free-img" (post #267)
+Post 267 was imported with author "ramak", but could not be found
+Running post-processing for post 268
+Could not find the author for "small-office-free-img" (post #268)
+Post 268 was imported with author "ramak", but could not be found
+Running post-processing for post 271
+Could not find the author for "quote-free-img" (post #271)
+Post 271 was imported with author "ramak", but could not be found
+Running post-processing for post 286
+Could not find the author for "logo-bg-free-img" (post #286)
+Post 286 was imported with author "ramak", but could not be found
+Running post-processing for post 290
+Could not find the author for "owner2-free-img" (post #290)
+Post 290 was imported with author "ramak", but could not be found
+Running post-processing for post 292
+Could not find the author for "team-03-free-img" (post #292)
+Post 292 was imported with author "ramak", but could not be found
+Running post-processing for post 296
+Could not find the author for "happy-clients-free-img" (post #296)
+Post 296 was imported with author "ramak", but could not be found
+Running post-processing for post 299
+Could not find the author for "clients01-free-img" (post #299)
+Post 299 was imported with author "ramak", but could not be found
+Running post-processing for post 300
+Could not find the author for "clients03-free-img" (post #300)
+Post 300 was imported with author "ramak", but could not be found
+Running post-processing for post 301
+Could not find the author for "clients04-free-img" (post #301)
+Post 301 was imported with author "ramak", but could not be found
+Running post-processing for post 303
+Could not find the author for "living-room2-free-img" (post #303)
+Post 303 was imported with author "ramak", but could not be found
+Post 303 was marked for post-processing, but none was required.
+Running post-processing for post 304
+Could not find the author for "living-room1-free-img" (post #304)
+Post 304 was imported with author "ramak", but could not be found
+Post 304 was marked for post-processing, but none was required.
+Running post-processing for post 306
+Could not find the author for "living-room4-free-img" (post #306)
+Post 306 was imported with author "ramak", but could not be found
+Post 306 was marked for post-processing, but none was required.
+Running post-processing for post 308
+Could not find the author for "kitcen02-free-img" (post #308)
+Post 308 was imported with author "ramak", but could not be found
+Post 308 was marked for post-processing, but none was required.
+Running post-processing for post 310
+Could not find the author for "kitcen03-free-img" (post #310)
+Post 310 was imported with author "ramak", but could not be found
+Post 310 was marked for post-processing, but none was required.
+Running post-processing for post 311
+Could not find the author for "office01-free-img" (post #311)
+Post 311 was imported with author "ramak", but could not be found
+Post 311 was marked for post-processing, but none was required.
+Running post-processing for post 21
+Could not find the author for "" (post #21)
+Post 21 was imported with author "ramak", but could not be found
+Post 21 was marked for post-processing, but none was required.
+Running post-processing for post 22
+Could not find the author for "" (post #22)
+Post 22 was imported with author "ramak", but could not be found
+Post 22 was marked for post-processing, but none was required.
+Running post-processing for post 102
+Could not find the author for "astra" (post #102)
+Post 102 was imported with author "ramak", but could not be found
+Post 102 was marked for post-processing, but none was required.
+Running post-processing for post 312
+Could not find the author for "office02-free-img" (post #312)
+Post 312 was imported with author "ramak", but could not be found
+Post 312 was marked for post-processing, but none was required.
+Running post-processing for post 313
+Could not find the author for "office03-free-img" (post #313)
+Post 313 was imported with author "ramak", but could not be found
+Post 313 was marked for post-processing, but none was required.
+Running post-processing for post 315
+Could not find the author for "kitcen03-free-img" (post #315)
+Post 315 was imported with author "ramak", but could not be found
+Running post-processing for post 316
+Could not find the author for "kitcen05-free-img" (post #316)
+Post 316 was imported with author "ramak", but could not be found
+Running post-processing for post 317
+Could not find the author for "kitcen04-free-img" (post #317)
+Post 317 was imported with author "ramak", but could not be found
+Running post-processing for post 318
+Could not find the author for "bedroom03-free-img" (post #318)
+Post 318 was imported with author "ramak", but could not be found
+Running post-processing for post 319
+Could not find the author for "bedroom01-free-img" (post #319)
+Post 319 was imported with author "ramak", but could not be found
+Running post-processing for post 320
+Could not find the author for "bedroom02-free-img" (post #320)
+Post 320 was imported with author "ramak", but could not be found
+Running post-processing for post 323
+Could not find the author for "project-free-img" (post #323)
+Post 323 was imported with author "ramak", but could not be found
+Running post-processing for post 324
+Could not find the author for "living-room5-free-img" (post #324)
+Post 324 was imported with author "ramak", but could not be found
+Running post-processing for post 327
+Could not find the author for "interior-favicon-free-img" (post #327)
+Post 327 was imported with author "ramak", but could not be found
+Post 327 was marked for post-processing, but none was required.
+Running post-processing for post 331
+Could not find the author for "interior-firm-facebook-yoast-free-img" (post #331)
+Post 331 was imported with author "ramak", but could not be found
+Post 331 was marked for post-processing, but none was required.
+Running post-processing for post 334
+Could not find the author for "features" (post #334)
+Post 334 was imported with author "ramak", but could not be found
+Running post-processing for post 363
+Could not find the author for "blog-bg-img" (post #363)
+Post 363 was imported with author "rishabhm", but could not be found
+Running post-processing for post 431
+Could not find the author for "blog01-free-img" (post #431)
+Post 431 was imported with author "sonalib", but could not be found
+Running post-processing for post 443
+Could not find the author for "blog02-free-img" (post #443)
+Post 443 was imported with author "sonalib", but could not be found
+Running post-processing for post 449
+Could not find the author for "blog03-free-img" (post #449)
+Post 449 was imported with author "sonalib", but could not be found
+Running post-processing for post 450
+Could not find the author for "Contact form" (post #450)
+Post 450 was imported with author "ramak", but could not be found
+Post 450 was marked for post-processing, but none was required.
+Running post-processing for post 451
+Could not find the author for "Home" (post #451)
+Post 451 was imported with author "ramak", but could not be found
+Running post-processing for post 452
+Could not find the author for "Portfolio" (post #452)
+Post 452 was imported with author "ramak", but could not be found
+Running post-processing for post 453
+Could not find the author for "About" (post #453)
+Post 453 was imported with author "ramak", but could not be found
+Running post-processing for post 454
+Could not find the author for "Contact" (post #454)
+Post 454 was imported with author "ramak", but could not be found
+Running post-processing for post 455
+Could not find the author for "Testimonials" (post #455)
+Post 455 was imported with author "ramak", but could not be found
+Running post-processing for post 456
+Could not find the author for "" (post #456)
+Post 456 was imported with author "ramak", but could not be found
+Post 456 was marked for post-processing, but none was required.
+Running post-processing for post 457
+Could not find the author for "" (post #457)
+Post 457 was imported with author "ramak", but could not be found
+Post 457 was marked for post-processing, but none was required.
+Running post-processing for post 23
+Could not find the author for "" (post #23)
+Post 23 was imported with author "ramak", but could not be found
+Post 23 was marked for post-processing, but none was required.
+Running post-processing for post 337
+Could not find the author for "Blog" (post #337)
+Post 337 was imported with author "rishabhm", but could not be found
+Post 337 was marked for post-processing, but none was required.
+Running post-processing for post 340
+Could not find the author for "How To Prepare For Overnight Guests" (post #340)
+Post 340 was imported with author "sonalib", but could not be found
+Running post-processing for post 426
+Could not find the author for "Last Minute Decor And DIY Gift Ideas!" (post #426)
+Post 426 was imported with author "sonalib", but could not be found
+Running post-processing for post 440
+Could not find the author for "Makeover Plans For The Dining Room" (post #440)
+Post 440 was imported with author "sonalib", but could not be found
+Running post-processing for post 445
+Could not find the author for "Bedroom! Embracing The Maximalism Trend" (post #445)
+Post 445 was imported with author "sonalib", but could not be found
+Running post-processing for post 461
+Could not find the author for "" (post #461)
+Post 461 was imported with author "satishk", but could not be found
+Post 461 was marked for post-processing, but none was required.
+
+---
+
+3. Imported "Site Options"  - 16:56:52 UTC
+
+---
+
+4. Importing "Widgets"  - 16:56:54 UTC
+Sidebar: sidebar-1
+Widget: "Search" - Imported
+Widget: "Recent Posts" - Imported
+Widget: "Recent Comments" - Imported
+Widget: "Archives" - Imported
+Widget: "Categories" - Imported
+Widget: "Meta" - Imported
+
+---
+
+Import Complete!  - 16:56:55 UTC
